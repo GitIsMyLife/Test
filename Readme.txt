@@ -1,2 +1,1 @@
-First Writing
-Second wiriting
+Second wiriting became First
